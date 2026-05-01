@@ -2,7 +2,7 @@
 
 This repository contains the implementation of the OPM (Order Preserving Matching) and CTM (Cartesian Tree Matching) based motif discovery framework described in:
 
-> Dahan, A., & Ghazawi, S. (2026). *Stringology-Based Motif Discovery for Electrophysiological Time Series: A Framework for Temporal Pattern Analysis with an ADHD Case Study.* Computers in Biology and Medicine.
+> Dahan, A., & Ghazawi, S. (2026). *Stringology-Based Motif Discovery for Electrophysiological Time Series: A Framework for Temporal Pattern Analysis with an ADHD Case Study.*
 
 ## Overview
 
@@ -122,7 +122,6 @@ If you use this code in your research, please cite:
   title     = {Stringology-Based Motif Discovery for Electrophysiological
                Time Series: A Framework for Temporal Pattern Analysis
                with an ADHD Case Study},
-  journal   = {Computers in Biology and Medicine},
   year      = {2026}
 }
 ```
